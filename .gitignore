@@ -12,6 +12,8 @@ dist/
 build/
 *.log
 
-# java开发
-.idea
+# JetBrains IDEs（所有 .idea 文件夹，不管在哪个子目录）
+.idea/
+*.iml
+
 .mvn
