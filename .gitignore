@@ -1,0 +1,17 @@
+# macOS 系统文件
+.DS_Store
+
+# 依赖文件夹
+node_modules/
+
+# 环境变量（含密钥）
+.env
+
+# 编译产物
+dist/
+build/
+*.log
+
+# java开发
+.idea
+.mvn
